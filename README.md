@@ -2,6 +2,7 @@
 Portfolio of Data Analytics Projects using Python, Power BI, Tableau, SQL, and Data Storytelling
 # John Carnegie
 MSDS Candidate | Gonzaga University 
+
 DATA 581-Data Visualization | Summer 2026
 ## Skills
 - Python
