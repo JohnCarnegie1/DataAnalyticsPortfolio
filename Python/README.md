@@ -1,2 +1,2 @@
 # Python Projects
-- Midterm Assessment EDA project
+- Python EDA Project
