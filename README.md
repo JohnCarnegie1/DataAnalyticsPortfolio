@@ -12,14 +12,11 @@ DATA 581-Data Visualization | Summer 2026
 - Data Visualization
 ## Projects
 ### Python EDA Project
-Link Here
+https://github.com/JohnCarnegie1/DataAnalyticsPortfolio/blob/main/Python/PythonEDAProject.ipynb
 ### Power BI Dashboard
-Link Here
+https://github.com/JohnCarnegie1/DataAnalyticsPortfolio/tree/main/PowerBI
 ### Tableau Dashboard
-Link Here
+https://github.com/JohnCarnegie1/DataAnalyticsPortfolio/tree/main/Tableau
 ### SQL Project
-Link Here
-## Contact
-LinkedIn:
-Email:
-Click:
+https://github.com/JohnCarnegie1/DataAnalyticsPortfolio/blob/main/SQL/Queries.sql
+
