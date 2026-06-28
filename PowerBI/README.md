@@ -1,3 +1,3 @@
 # PowerBI Projects
 Dashboard Link:
-https://gonzagau-my.sharepoint.com/:u:/g/personal/jcarnegie_zagmail_gonzaga_edu/IQDqHliF-0YnSJtueEoqHEsWAXMhzPm-N4bZ31nSlxr5v7E?e=NF5Jfi 
+https://app.powerbi.com/groups/me/dashboards/862f4b60-06a9-4475-828f-1cf4f38e7a09?experience=power-bi
